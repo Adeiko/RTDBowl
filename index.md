@@ -129,7 +129,8 @@ When any team wins 2 years in a row the empire fund is paid out to the winner an
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results.
-- Picks 9-14 will be assigned in the regular season finish.
+- Picks 11-14 will be assigned in the regular season finish.
+- Picks 9-10 will be determined by regular season standings of the two playoffs teams not in the top 4.
 - Picks 4-8 will be determined by Max PF of remaining teams that do not win the bottom lottery. 
 - Picks 1-3 will be in a lottery whith the 8 non-playoff teams
 The odds of the lottery: 
