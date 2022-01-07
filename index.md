@@ -25,10 +25,8 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-RTDB
+RTDB<br>
 sander26#9341 on discord
-
-<br>
 
 <br>
 
@@ -86,9 +84,9 @@ When any team wins 2 years in a row the empire fund is paid out to the winner an
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 3 | No Limit
    SFLEX (QB/RB/WR/TE) | 1 | No Limit
-   BE | 16 | No Limit
-   IR | 4 | No Limit
-   TAXI | 4 | No Limit
+   BE | 16 | -
+   IR | 4 | -
+   TAXI | 4 | -
 
 <br><br>
 
@@ -136,14 +134,7 @@ When any team wins 2 years in a row the empire fund is paid out to the winner an
 - Picks 1-3 will be in a lottery whith the 8 non-playoff teams
 The odds of the lottery: 
 
-14th - 20%
-13th - 17.5%
-12th - 15%
-11th - 12.5%
-10th - 10%
-9th - 7.5%
-8th - 5%
-7th - 2.5%
+14th - 20%<br>13th - 17.5%<br>12th - 15%<br>11th - 12.5%<br>10th - 10%<br>9th - 7.5%<br>8th - 5%<br>7th - 2.5%
 
 10% Extra for Winner of consolation bracket.
 
