@@ -64,11 +64,11 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section III - Payout__ ##
-- 1st Place: $525 (50%)
-- 2nd Place: $210 (20%)
-- 3rd Place: $105 (10%)
-- Highest regular season scorer: 105$ (10%)
-- Empire Pot: $105 (10%)
+- 1st Place: $500
+- 2nd Place: $250
+- 3rd Place: $100
+- Highest regular season scorer: $100
+- Empire Pot: $100
 
 When any team wins 2 years in a row the empire fund is paid out to the winner and the league goes to a majority vote on whether to run the league as is OR drop all players and reconvene as a startup.
 
