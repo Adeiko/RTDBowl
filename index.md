@@ -1,4 +1,4 @@
-# League Constitution
+# RTDBowl Constitution
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
